@@ -1,0 +1,10 @@
+# OS files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Archives and temporary files
+*.zip
+*.tar.gz
+*.tmp
